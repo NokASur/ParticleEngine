@@ -1,3 +1,0 @@
-C:/CLionProjects/ParticleEngine/cmake-build-debug/CMakeFiles/ParticleEngine.dir
-C:/CLionProjects/ParticleEngine/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/CLionProjects/ParticleEngine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
