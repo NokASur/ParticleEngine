@@ -243,15 +243,6 @@ CMAKE_TAPI:FILEPATH=CMAKE_TAPI-NOTFOUND
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
 //Value Computed by CMake
-PROJ_NAME_BINARY_DIR:STATIC=C:/CLionProjects/ParticleEngine/cmake-build-debug
-
-//Value Computed by CMake
-PROJ_NAME_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-PROJ_NAME_SOURCE_DIR:STATIC=C:/CLionProjects/ParticleEngine
-
-//Value Computed by CMake
 ParticleEngine_BINARY_DIR:STATIC=C:/CLionProjects/ParticleEngine/cmake-build-debug
 
 //Value Computed by CMake

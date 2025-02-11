@@ -1,5 +1,7 @@
 lib/
 include/
+idea/
+cmake-build-debug/
 
 *.lib
 *.a
