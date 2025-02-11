@@ -1,0 +1,6 @@
+*.lib
+*.a
+*.dll
+*.so
+*.dylib
+*.pdb

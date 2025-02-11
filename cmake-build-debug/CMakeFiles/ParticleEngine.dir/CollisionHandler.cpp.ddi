@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/ParticleEngine.dir/CollisionHandler.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

@@ -1,0 +1,13 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/ParticleEngine.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/ParticleEngine.dir/physical_entities/PhysicalEntity.cpp.obj: dyndep
+
+build CMakeFiles/ParticleEngine.dir/physical_entities/Circle.cpp.obj: dyndep
+
+build CMakeFiles/ParticleEngine.dir/CollisionHandler.cpp.obj: dyndep
+
+build CMakeFiles/ParticleEngine.dir/physical_entities/Rectangle.cpp.obj: dyndep
+
+build CMakeFiles/ParticleEngine.dir/GravitySystem.cpp.obj: dyndep
+

@@ -1,0 +1,13 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/DynamicLinking.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/DynamicLinking.dir/physical_entities/PhysicalEntity.cpp.obj: dyndep
+
+build CMakeFiles/DynamicLinking.dir/physical_entities/Circle.cpp.obj: dyndep
+
+build CMakeFiles/DynamicLinking.dir/CollisionHandler.cpp.obj: dyndep
+
+build CMakeFiles/DynamicLinking.dir/physical_entities/Rectangle.cpp.obj: dyndep
+
+build CMakeFiles/DynamicLinking.dir/GravitySystem.cpp.obj: dyndep
+
